@@ -1,3 +1,3 @@
 # Overview
 
-Qiita APIを操作するツール。
+Qiitaを操作するためのスクリプト
